@@ -1,6 +1,7 @@
 # flutter_application_1
 
 A new Flutter project.
+![In App Experience](https://github.com/aaronoe/FlutterCinematic/blob/master/screenshots/flutter_cinematic_gif.gif?raw=true)
 
 ## Getting Started
 
